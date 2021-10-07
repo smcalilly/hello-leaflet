@@ -38,10 +38,10 @@
 }
 
 
-/* .leaflet-container {
+.leaflet-container {
   height: 100%;
   width: 100%;
-} */
+}
 
 .map-viewer {
   height: 550px;
